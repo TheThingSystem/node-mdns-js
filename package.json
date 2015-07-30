@@ -17,7 +17,7 @@
   "main": "index.js",
   "dependencies": {
     "debug": "^2.1.1",
-    "mdns-js-packet": "git://github.com/TheThingSystem/mdns-js-packet.git",
+    "mdns-js-packet": "git://github.com/TheThingSystem/node-mdns-js-packet.git",
     "semver": "^4.3.1"
   },
   "devDependencies": {
